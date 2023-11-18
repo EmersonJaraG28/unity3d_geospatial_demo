@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261904323043",
+    "project_id": "geospatial-demo-7bca9",
+    "storage_bucket": "geospatial-demo-7bca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261904323043:android:399efdd845bb97d0ea90d6",
+        "android_client_info": {
+          "package_name": "com.nextlatam.geospatial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxmMs_hSbcf2mAuGaUlp87Qtq1v6Buxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
